@@ -499,5 +499,10 @@ pre span{
 
 
 }
-
+.just{
+	text-align: justify;
+}
+.separador{
+	margin-right: 20px;
+}
 
