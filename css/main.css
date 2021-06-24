@@ -505,4 +505,10 @@ pre span{
 .separador{
 	margin-right: 20px;
 }
-
+.tarjeta{
+	padding: 10px;
+    border-radius: 10px;
+    border: 1px solid;
+    background-color: #D4A2C1;
+    box-shadow: 5px -2px 10px -1px black;
+}
