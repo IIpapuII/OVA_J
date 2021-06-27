@@ -512,3 +512,13 @@ pre span{
     background-color: #D4A2C1;
     box-shadow: 5px -2px 10px -1px black;
 }
+.tar{
+	margin-top: 20px;
+    margin-bottom: 20px;
+	padding: 10px;
+    border-radius: 10px;
+    border: 1px solid;
+    background-color: #D4A2C1;
+    box-shadow: 5px -2px 10px -1px black;
+
+}
